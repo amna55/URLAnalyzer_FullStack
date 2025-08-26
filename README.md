@@ -5,7 +5,10 @@ This is a full-stack web application built as a test task for the Full-Stack Dev
 
 
 
-https://github.com/user-attachments/assets/adf73e97-010e-4ed0-be30-3e275406f9fa
+
+https://github.com/user-attachments/assets/947daf04-a1b3-42a9-9ec0-e48416ac3b48
+
+
 
 
 ---
